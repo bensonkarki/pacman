@@ -5,5 +5,5 @@
 
 
 
-![alt text](https://github.com/bensonkarki/pacman/blob/main/PacmanJava/images/PacmanScreenshot.PNG)
-![alt text](https://github.com/bensonkarki/pacman/blob/main/PacmanJava/images/PacmanDemo.mp4)
+![Pacman Screenshot](https://github.com/bensonkarki/pacman/blob/main/PacmanJava/images/PacmanScreenshot.PNG)
+![Pacman Video](https://github.com/bensonkarki/pacman/blob/main/PacmanJava/images/PacmanDemo.mp4)
