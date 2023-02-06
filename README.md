@@ -6,3 +6,4 @@
 
 
 ![alt text](https://github.com/bensonkarki/pacman/blob/main/PacmanJava/images/PacmanScreenshot.PNG)
+![alt text](https://github.com/bensonkarki/pacman/blob/main/PacmanJava/images/PacmanDemo.mp4)
